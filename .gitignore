@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Testing and type checking
+.mypy_cache/
+.pytest_cache/
+.tox/
+
+# Build artifacts
+dist/
+build/
+
+# Secrets
+.env
+secrets.json
+
+*.pptx
+*.pdf
