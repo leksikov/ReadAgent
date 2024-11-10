@@ -1,5 +1,8 @@
-My own implementation of ReadAgent based on this work. https://read-agent.github.io/(https://read-agent.github.io/).
+## My ReadAgent Implementation
 
-Here I implement different content breaking strategies.
+This is my own implementation of a ReadAgent, inspired by the original work ([https://read-agent.github.io/](https://read-agent.github.io/)). 
 
-My implementation has unlimited context length due to usage of sliding window.
+**Key Features:**
+
+* **Custom Content Breaking Strategies:** I've implemented various strategies for breaking down content, allowing for more efficient processing.
+* **Unlimited Context Length:** By utilizing a sliding window approach, my implementation overcomes context length limitations.
